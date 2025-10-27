@@ -10,7 +10,7 @@ Un juego de Blackjack interactivo desarrollado con JavaScript vanilla y Vite, do
 
 Este proyecto es un juego completo de Blackjack (21) implementado con JavaScript moderno. El jugador compite contra la computadora en partidas emocionantes donde el objetivo es acercarse lo más posible a 21 puntos sin pasarse.
 
-El proyecto forma parte del curso **JavaScript Moderno: Guía para dominar el lenguaje** creado por **Fernando Herrera**, disponible en Udemy.
+El proyecto forma parte del curso **JavaScript Moderno: Guía para dominar el lenguaje** creado por **Fernando Herrera**, disponible en Udemy. Este proyecto forma parte como una práctica dada durante gran parte del curso.
 
 ## Características
 
@@ -35,12 +35,12 @@ El proyecto forma parte del curso **JavaScript Moderno: Guía para dominar el le
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/jesusvelezx/blackjack-vite-project.git
+git clone https://github.com/jesusvelezx/blackjack-vite-project-udemy.git
 ```
 
 2. Navega al directorio del proyecto:
 ```bash
-cd blackjack-vite-project
+cd blackjack-vite-project-udemy
 ```
 
 3. Instala las dependencias:
@@ -53,7 +53,10 @@ npm install
 npm run dev
 ```
 
-5. Abre tu navegador en `http://localhost:5173`
+5. Abre tu navegador en:
+```bash
+http://localhost:5173
+```
 
 ## Cómo Jugar
 

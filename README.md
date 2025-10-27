@@ -105,16 +105,10 @@ Instructor: **Fernando Herrera**
 Plataforma: Udemy
 [Enlace al curso](https://www.udemy.com/share/102Bgj3@WUAEnP6cEWj2Tlb2bHvuQWVJY1m4NXaHjRLZAD19IRi8x6wBQ2fA3kBqoHTE8He1yQ==/)
 
-## Autor
-
-**Jesus Velez**
-Email: jesus.27velez@gmail.com
-GitHub: [@jesusvelezx](https://github.com/jesusvelezx)
-
 ## Licencia
 
 Este proyecto es de código abierto y está disponible para fines educativos.
 
 ---
 
-Desarrollado con JavaScript Moderno
+Proyecto educativo - JavaScript Moderno
